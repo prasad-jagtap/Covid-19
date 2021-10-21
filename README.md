@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/prasadjagtap04/9e873be6-0369-46fc-9d70-58ae3ab6a923/451871c3-dfbe-47de-959e-d4fc5002b88f/_apis/work/boardbadge/bd2680ad-6e2a-4bd8-a996-aad7417e44ad)](https://dev.azure.com/prasadjagtap04/9e873be6-0369-46fc-9d70-58ae3ab6a923/_boards/board/t/451871c3-dfbe-47de-959e-d4fc5002b88f/Microsoft.RequirementCategory)
 # The notebook has preliminary story telling linked to the latest count of confirmed cases, deaths, recoveries, active cases & mortality rate with the real-time data sources.
